@@ -1,0 +1,11 @@
+E:\Repos\MusicalScales\MusicalScales\MusicalScales\bin\Debug\netcoreapp2.0\MusicalScales.deps.json
+E:\Repos\MusicalScales\MusicalScales\MusicalScales\bin\Debug\netcoreapp2.0\MusicalScales.runtimeconfig.json
+E:\Repos\MusicalScales\MusicalScales\MusicalScales\bin\Debug\netcoreapp2.0\MusicalScales.runtimeconfig.dev.json
+E:\Repos\MusicalScales\MusicalScales\MusicalScales\bin\Debug\netcoreapp2.0\MusicalScales.dll
+E:\Repos\MusicalScales\MusicalScales\MusicalScales\bin\Debug\netcoreapp2.0\MusicalScales.pdb
+E:\Repos\MusicalScales\MusicalScales\MusicalScales\obj\Debug\netcoreapp2.0\MusicalScales.csprojResolveAssemblyReference.cache
+E:\Repos\MusicalScales\MusicalScales\MusicalScales\obj\Debug\netcoreapp2.0\MusicalScales.csproj.CoreCompileInputs.cache
+E:\Repos\MusicalScales\MusicalScales\MusicalScales\obj\Debug\netcoreapp2.0\MusicalScales.AssemblyInfoInputs.cache
+E:\Repos\MusicalScales\MusicalScales\MusicalScales\obj\Debug\netcoreapp2.0\MusicalScales.AssemblyInfo.cs
+E:\Repos\MusicalScales\MusicalScales\MusicalScales\obj\Debug\netcoreapp2.0\MusicalScales.dll
+E:\Repos\MusicalScales\MusicalScales\MusicalScales\obj\Debug\netcoreapp2.0\MusicalScales.pdb
